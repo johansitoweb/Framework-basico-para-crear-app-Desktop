@@ -1,5 +1,5 @@
 # Framework-basico-para-crear-app-Desktop
-Framework basico para crear app Desktop
+
 # Mi Framework Minimalista Go
 
 Un framework minimalista para crear aplicaciones de escritorio con Go y SDL2.
@@ -27,13 +27,13 @@ Este framework proporciona una base para crear aplicaciones de escritorio simple
 2.  Clona este repositorio:
 
     ```bash
-    git clone <URL_del_repositorio>
+    git clone <github.com/johansitoweb/Framework-basico-para-crear-app-Desktop>
     ```
 
 3.  Navega al directorio del proyecto:
 
     ```bash
-    cd <nombre_del_directorio>
+    cd <Framework-basico-para-crear-app-Desktop>
     ```
 
 4.  Descarga las dependencias:
