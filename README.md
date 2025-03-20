@@ -65,8 +65,7 @@ Este framework proporciona una base para crear aplicaciones de escritorio simple
             "[github.com/veandco/go-sdl2/sdl](https://www.google.com/search?q=https://github.com/veandco/go-sdl2/sdl)"
     )
 
-    // ... (Código del framework) ...
-
+   
     func main() {
             if err := sdl.Init(sdl.INIT_VIDEO); err != nil {
                     fmt.Fprintf(os.Stderr, "Error al inicializar SDL: %s\n", err)
